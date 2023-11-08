@@ -1,7 +1,7 @@
 {
   "name": "news-mag",
   "private": true,
-  "homepage": "https://lijazilla.github.io/news-mag/build",
+  "homepage": "https://lijazilla.github.io/news-mag/dist",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
